@@ -20,6 +20,5 @@ strategy:
   displayName: 'Use Phyton' $(python.version)
 
 steps:
-    python CompareTwolists.py
-  displayName:'Install dependencies'
+
 
